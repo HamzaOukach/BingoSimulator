@@ -1,4 +1,4 @@
-## 🎱 Bingo Game
+## 🃏 Bingo Game
 
 A desktop Bingo game built with Java, featuring a random draw system with automatic win verification and multiple game modes.
 
