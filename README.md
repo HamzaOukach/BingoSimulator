@@ -20,5 +20,5 @@ A desktop Bingo game built with Java, featuring a random draw system with automa
 
 **Run the project:**
 
-1. Clone the repo: git clone https://github.com/HamzaOukach/Bingo-Game.git
+1. Clone the repository to your local machine
 2. Open the project in NetBeans, or build it via Ant:
