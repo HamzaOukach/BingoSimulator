@@ -9,6 +9,7 @@ A desktop Bingo game built with Java, featuring a random draw system with automa
 
 ### Tech Stack
 - **Language:** Java
+- **GUI:** Java Swing
 - **Build tool:** Apache Ant (NetBeans project)
 
 ### Getting Started
