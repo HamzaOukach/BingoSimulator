@@ -1,6 +1,6 @@
 ## 🎱 Bingo Game
 
-A desktop Bingo game built in Java, featuring a random draw system with automatic win verification and multiple game modes.
+A desktop Bingo game built with Java, featuring a random draw system with automatic win verification and multiple game modes.
 
 ### Features
 - Random number draw engine
